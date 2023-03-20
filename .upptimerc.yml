@@ -5,6 +5,10 @@ repo: status.voltflx.com # The name of this repository
 sites:
   - name: VOLTFLX
     url: https://voltflx.com
+  - name: VoltFLX support
+    url: https://support.voltflx.com
+  - name: VoltFLX discord
+    url: https://discord.voltflx.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

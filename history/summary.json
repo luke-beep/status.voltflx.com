@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/support.voltflx.com.ico",
     "slug": "volt-flx-support",
     "status": "down",
-    "uptime": "46.31%",
-    "uptimeDay": "46.31%",
-    "uptimeWeek": "46.31%",
-    "uptimeMonth": "46.31%",
-    "uptimeYear": "46.31%",
+    "uptime": "0.73%",
+    "uptimeDay": "0.73%",
+    "uptimeWeek": "0.73%",
+    "uptimeMonth": "0.73%",
+    "uptimeYear": "0.73%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-20": 0
+      "2023-03-20": 53
     }
   },
   {
@@ -43,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/discord.voltflx.com.ico",
     "slug": "volt-flx-discord",
     "status": "down",
-    "uptime": "84.91%",
-    "uptimeDay": "84.91%",
-    "uptimeWeek": "84.91%",
-    "uptimeMonth": "84.91%",
-    "uptimeYear": "84.91%",
+    "uptime": "0.72%",
+    "uptimeDay": "0.72%",
+    "uptimeWeek": "0.72%",
+    "uptimeMonth": "0.72%",
+    "uptimeYear": "0.72%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-20": 0
+      "2023-03-20": 52
     }
   }
 ]
